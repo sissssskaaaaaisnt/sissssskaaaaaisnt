@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi there! 🌸 I'm Siska 💻</h1>
 
-<!--
-**sissssskaaaaaisnt/sissssskaaaaaisnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e0/7f/2d/e07f2d6f13dc60a1b0aa5b2dfcb7e0d3.gif" width="200" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌷 I’m a chill IS student who loves coffee & red code editors  
+
+
+---
+
+🎀 **Things I Love**  
+🍓 Matcha & Coffee addict
+🎧 Chill music while coding  
+🎨 Making everything aesthetic
+
+---
+
+📫 **Let’s be friends!**  
+[![Instagram](https://img.shields.io/badge/@siskaarina_-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sissssskaaaaaisn?igsh=MTMxaG8zODQ2ZncybA==))
