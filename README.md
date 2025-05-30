@@ -1,4 +1,7 @@
-<h1 align="center">✨ Hi there! I’m Siska 💻☕</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Siska💻☕;Welcome+to+my+GitHub+profile!&center=true&width=400&height=45">
+</p>
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/e0/7f/2d/e07f2d6f13dc60a1b0aa5b2dfcb7e0d3.gif" width="200" />
 </p>
@@ -6,23 +9,24 @@
 ---
 
 🌷 **About Me**  
-Halo! Aku Siska, mahasiswi Sistem Informasi yang suka teknologi dan desain. Aku senang bikin website lucu dan estetik, ngulik backend ringan, dan ngopi sambil ngerjain tugas 😌
+Hey! I’m Siska, an Information Systems student who loves everything tech and cute.  
+I enjoy building aesthetic websites, exploring backend stuff, and sipping coffee while studying ☁️💕
 
 ---
 
-🎓 **What I’m Learning**  
-- HTML, CSS, dan PHP  
+🎓 **Currently Learning**  
+- HTML, CSS, and PHP  
 - Tailwind CSS  
-- MySQL & database  
-- Cara jadi lebih produktif & chill di dunia coding ✨
+- MySQL & database management  
+- Staying productive (and chill) in the world of code ✨
 
 ---
 
-💖 **Things I Like**  
-- Coding sambil denger lagu lo-fi  
-- Warna pastel & pink  
-- UI/UX desain  
-- Matcha & vibes kafe ☕
+💖 **Things I Love**  
+- Coding with lo-fi beats  
+- Pastel colors and pink themes  
+- UI/UX design  
+- Matcha drinks & cozy café vibes ☕
 
 ---
 
@@ -32,8 +36,8 @@ Halo! Aku Siska, mahasiswi Sistem Informasi yang suka teknologi dan desain. Aku 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin_username)
 
 📍 Based in: Indonesia  
-🗓️ Motto: *Coding pelan-pelan, yang penting jalan.*
+🗓️ Motto: *Code slowly, as long as you keep going.*
 
 ---
 
-✨ Terima kasih udah mampir ke GitHub-ku! Semoga harimu manis kayak kopi susu 😄🌼
+✨ Thanks for stopping by my GitHub! I hope your day is as sweet as an iced coffee 💌🌸
